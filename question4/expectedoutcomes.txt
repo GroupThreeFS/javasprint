@@ -1,0 +1,59 @@
+The expected outcome for question 1 will be 
+    
+    0 1 2 3 4 5 6 7 8 9
+
+The expected outcome for question 2 will be
+
+    15 
+
+The code allows all intergers to add up to 15
+
+
+The expected outcome for question 3 will be 
+ 
+    7 9
+
+ The expected outcome for question 4 will be
+
+    false true
+
+ The expected outcome for question 5 will be
+
+    2
+
+ The expected outcome for question 6 will be
+
+    2
+
+ The expected outcome for question 7 will be
+
+    2
+
+ The expected outcome for question 8 will be
+
+    Welcome to Java
+    There is an exception
+    Bye.
+
+ The expected outcome for question 9 will be
+
+    class A
+    method1 of class A
+    method2 of class A
+    class B
+    method1 of class A
+    method2 of class B
+    class B
+    method1 of class A
+    method2 of class B
+    Class D
+    method1 of class D
+    method2 of class B
+
+ The expected outcome for question 10 will be
+
+    a is an instance of A
+    c is an instance of Object
+
+ 
+
